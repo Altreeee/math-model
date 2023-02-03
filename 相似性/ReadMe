@@ -1,0 +1,3 @@
+yinzifenxi.py：给tidy.xlsx做因子分析，生成result.xlsx
+
+distance.py：使用try.xlsx计算欧几里得距离，输出到distance_3.xlsx

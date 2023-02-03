@@ -1,0 +1,8 @@
+influence_data.csv：原数据
+influencer_jiangxu.xls：按影响者排序
+name.mat:  使用fluencer.xls计算每个人的追随者数
+numfollower.py：给NUM_FOLLOWER加上人名和流派
+excel.xls：使用numfollower.py生成的新表格
+
+NUM_FOLLOWER: 最终结果1，人名，流派，影响时间，按追随者数量排序	*注意，有些音乐家没有被其它音乐家关注，最终在表里的只有3775个人。
+NUM_GENRE：最终结果2，所有音乐家的年份和流派，集合了没人关注的音乐家	*5604人
